@@ -113,7 +113,6 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
-  platforms:
   - id: "toutiao"
     name: "今日头条"
   - id: "baidu"
